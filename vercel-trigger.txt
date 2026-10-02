@@ -1,0 +1,1 @@
+Vercel Git integration connected 2026-10-03. Trigger production deployment.
